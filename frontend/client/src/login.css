@@ -1,0 +1,77 @@
+.otp{
+    position: absolute;
+    left: 70%;
+    top: 58%;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(125, 184, 139);
+    border: 1px solid black;
+  }
+  .otp2{
+    position: absolute;
+    left: 40%;
+    top: 60%;
+  }
+  .otp1{
+    position: absolute;
+    left: 85%;
+    top: 58%;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(125, 184, 139);
+    border: 1px solid black;
+  }
+  .mob{
+    position: absolute;
+    left: 10%;
+    top: 60%;
+  }
+  .email{
+    position: absolute;
+    left: 10%;
+    top: 70%;
+  }
+  .pass{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+  }
+  .logn{
+    position: absolute;
+    left: 85%;
+    top: 68%;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(125, 184, 139);
+    border: 1px solid black;
+  }
+  .id1{
+    position: absolute;
+    left: 10%;
+    top: 85%;
+  }
+  .id2{
+    position: absolute;
+    left: 40%;
+    top: 85%;
+  }
+  .id3{
+    position: absolute;
+    left: 10%;
+    top: 90%;
+  }
+  .id4{
+    position: absolute;
+    left: 40%;
+    top: 90%;
+  }
+
+  .signup{
+    position: absolute;
+    left: 85%;
+    top: 90%;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(125, 184, 139);
+    border: 1px solid black;
+  }

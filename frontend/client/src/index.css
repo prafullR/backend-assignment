@@ -1,0 +1,81 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+.centered {
+  height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  margin: 0;
+}
+
+pre {
+  margin: 0;
+  text-align: left;
+  background: #dddddd;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+a {
+  color: currentColor;
+}
+
+.install {
+  text-align: left;
+  margin: 5px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.credits svg {
+  margin: 0px 5px;
+}
+
+.logoutButton{
+  position: absolute;
+  height: 40px;
+  width: 80px;
+  background-color: antiquewhite;
+  border: 1px solid black;
+}
+
+.getButton {
+  position: absolute;
+  height: 40px;
+  width: 200px;
+  background-color: antiquewhite;
+  border: 1px solid black;
+}
+
+.logoutButton {
+  right: 0;
+}
+.parent {
+  position: relative;
+}
+
+.other{
+  position: absolute;
+  height: 40px;
+  width: 120px;
+  background-color: antiquewhite;
+  border: 1px solid black;
+  left:45%;
+  top:60%;
+}
+.buttonp{
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

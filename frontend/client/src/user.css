@@ -1,0 +1,42 @@
+.userid{
+    position: absolute;
+    top:40%;
+    left:20%;
+
+}
+.username{
+    position: absolute;
+    top:40%;
+    left: 50%;
+}
+.usernumber{
+    position: absolute;
+    top:50%;
+    left: 20%;
+}
+.useremail{
+    position: absolute;
+    top:50%;
+    left: 50%;
+
+}
+.update{
+    position: absolute;
+    left: 90%;
+    top: 80%;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(125, 184, 139);
+    border: 1px solid black;
+  }
+  .delete{
+    position: absolute;
+    left: 80%;
+    top: 80%;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(246, 5, 5);
+    border: 1px solid black;
+  }
+
+  
